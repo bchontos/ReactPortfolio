@@ -1,0 +1,28 @@
+#logo {
+    font-family: Georgia, Times, "Times New Roman", serif;
+  
+    /* Typography */
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+  }
+ 
+  .color-nav {
+      background-color: grey;
+  }
+
+  .two-toned-header-color {
+    /* Box-model */
+    height: 6px;
+    padding-bottom: 3px;
+  
+    /* Visual */
+    background-color: black;
+  }
+
+  .linkstyling {
+
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+
+  }
